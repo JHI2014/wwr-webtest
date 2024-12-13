@@ -1,2 +1,2 @@
 # wwr-webtest
-Public test site
+Public test site for regulatory work
